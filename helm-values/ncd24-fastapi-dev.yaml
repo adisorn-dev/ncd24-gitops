@@ -4,7 +4,7 @@ nodePort: 31002
 containerPort: 8000
 image:
   repository: ghcr.io/adisorn-dev/ncd24-fastapi
-  tag: dev-a333f91
+  tag: dev-db31a5b
   pullPolicy: Always
 probe:
   enabled: true
